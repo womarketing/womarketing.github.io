@@ -1,3 +1,5 @@
+[在药企，如何成为优秀的产品经理？](https://github.com/womarketing/womarketing.github.io/blob/master/%E5%9C%A8%E8%8D%AF%E4%BC%81%EF%BC%8C%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%BC%98%E7%A7%80%E7%9A%84%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%9F.md)
+
 ##  M1-1 h行业分析
 -1、如何通过二手调研及原始调研充分掌握行业相关信息？
 -2、哪些信息能够通过案头调研获得？
