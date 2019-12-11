@@ -177,3 +177,5 @@
 [产品经理如何找准目标客户？](https://github.com/womarketing/womarketing.github.io/blob/master/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%A6%82%E4%BD%95%E6%89%BE%E5%87%86%E7%9B%AE%E6%A0%87%E5%AE%A2%E6%88%B7%EF%BC%9F.md)
 br
 [药企如何定义产品经理？](https://github.com/womarketing/womarketing.github.io/blob/master/%E8%8D%AF%E4%BC%81%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%9F.md)
+
+[药企的市场活动，都有哪些新玩法？]()
