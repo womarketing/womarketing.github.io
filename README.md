@@ -180,4 +180,7 @@
 
 [药企的市场活动，都有哪些新玩法？](https://github.com/womarketing/womarketing.github.io/blob/master/%E8%8D%AF%E4%BC%81%E7%9A%84%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%A8%EF%BC%8C%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E7%8E%A9%E6%B3%95%EF%BC%9F%20%20.md)
 
+[除了开会和病例收集，我们还能做点啥？](https://github.com/womarketing/womarketing.github.io/blob/master/%E9%99%A4%E4%BA%86%E5%BC%80%E4%BC%9A%E5%92%8C%E7%97%85%E4%BE%8B%E6%94%B6%E9%9B%86%EF%BC%8C%E6%88%91%E4%BB%AC%E8%BF%98%E8%83%BD%E5%81%9A%E7%82%B9%E5%95%A5%EF%BC%9F%20%20.md)
+
 [史上最全产品进院全攻略](https://github.com/womarketing/womarketing.github.io/blob/master/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%A8%E4%BA%A7%E5%93%81%E8%BF%9B%E9%99%A2%E5%85%A8%E6%94%BB%E7%95%A5.md)
+
